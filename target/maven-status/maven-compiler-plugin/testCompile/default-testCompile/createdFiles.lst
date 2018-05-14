@@ -1,0 +1,6 @@
+com/studentApp/utils/TestUtils.class
+com/studentApp/utils/ReusableSpecifications.class
+com/studentApp/cucumber/StudentRunner.class
+com/studentApp/cucumber/steps/StudentStepDefinitions.class
+com/studentApp/cucumber/serenity/StudentSerenitySteps.class
+com/studentApp/testBase/TestBase.class

@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different requests on Student application","Verify status code 200 for get all students request","SUCCESS","2018-05-13T17:38:15.176-04:00[America/New_York]","0.0","3.79"
